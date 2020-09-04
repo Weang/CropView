@@ -1,0 +1,16 @@
+PODS:
+  - CropView (0.1.6)
+
+DEPENDENCIES:
+  - CropView (from `..`)
+
+EXTERNAL SOURCES:
+  CropView:
+    :path: ".."
+
+SPEC CHECKSUMS:
+  CropView: 305bef3d087944d5f48edc3aa9cb946b2c48dbd9
+
+PODFILE CHECKSUM: a6345e1aba6cd255baeb8c6e914b895788153861
+
+COCOAPODS: 1.7.0
